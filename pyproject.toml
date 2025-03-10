@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ZerePy"
 version = "0.1.0"
-description = "A launch-pad for AI agents"
+description = "xcelerate social AI agent"
 authors = ["N DIVIJ"]
 license = "MIT License"
 readme = "README.md"
